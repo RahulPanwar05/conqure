@@ -38,7 +38,8 @@ nav li>a{
     font-size: 20px;
 }
 .container{
-background:url(/img/bg-1.jpg);
+/* background:url(/img/bg-1.jpg); */
+background-image: url(/demoProject/img/bg-1.jpg);
 background-position:center;
 background-repeat: no-repeat;
 background-size: cover;
