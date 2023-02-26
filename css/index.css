@@ -39,7 +39,7 @@ nav li>a{
 }
 .container{
 /* background:url(/img/bg-1.jpg); */
-background-image: url(/demoProject/img/bg-1.jpg);
+background-image: url(/demoProject/img/);
 background-position:center;
 background-repeat: no-repeat;
 background-size: cover;
